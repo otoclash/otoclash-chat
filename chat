@@ -1,0 +1,3 @@
+root@montoska:~# apt-get update
+root@montoska:~# apt-get install -y git
+root@montoska:~# git clone https://github.com/RocketChat/Rocket.Chat.git
